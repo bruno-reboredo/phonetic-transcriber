@@ -10,6 +10,14 @@ add support for additional languages.
 
 ## Usage
 
+### Web UI (Streamlit)
+
+Install the web UI dependencies and start Streamlit locally:
+
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+
 ### Command line interface
 
 Run the transcriber directly from the repository:
